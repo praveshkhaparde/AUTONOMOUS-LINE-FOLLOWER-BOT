@@ -1,4 +1,4 @@
-# Autonomous Line-Following and Pick-and-Drop Robot
+# Autonomous Line-Following
 
 An intelligent robot that autonomously follows a line and performs object detection-based pick-and-drop actions.
 
@@ -6,7 +6,7 @@ An intelligent robot that autonomously follows a line and performs object detect
 
 ## AUTONOMOUS LINE-FOLLOWER BOT | COURSE PROJECT
 
-**Course Project | Prof. Joseph John**  
+**Makerspace | Prof. Joseph John**  
 *Jan’23 – Feb’23*
 
 - Aimed to build a line-following robot using IR sensors, an L298 motor driver, and an Arduino Uno R3  
